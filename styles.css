@@ -32,6 +32,7 @@ body{
     font-size: 18px;
     border-radius: 5px;
     border: 1px solid #999;
+    box-shadow: 5px 5px 7px black,inset 5px 5px 7px gray;
     outline: none;
 }
 
